@@ -1,0 +1,16 @@
+* {
+    border: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+main {
+    text-align: center;
+    margin: 5px;
+    padding: 280px;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(177, 220, 177);
+}
